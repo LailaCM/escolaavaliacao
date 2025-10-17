@@ -51,7 +51,7 @@ npm run dev
 
 #### Acesso via Navegador:
 1. Abra o navegador e acesse: `http://localhost:3000`
-2. Abra o arquivo `index.html` ou clique ao lado [Nosso site]()
+2. Abra o arquivo `index.html` ou clique ao lado [Nosso site](https://lailacm.github.io/escolaavaliacao/)
 
 #### Fluxo de Teste:
 
