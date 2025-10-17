@@ -1,5 +1,13 @@
 # Sistema de Gestão de Turmas e Atividades
 
+## Diagramas do Sistema
+
+### UML (Diagrama de Casos de Uso)
+![Diagrama UML](./docs/UML.png)
+
+### DER (Diagrama Entidade-Relacionamento)
+![Diagrama DER](./docs/DER.png)
+
 ## Requisitos de Infraestrutura
 
 ### Sistema Gerenciador de Banco de Dados (SGBD)
