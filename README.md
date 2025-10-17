@@ -45,7 +45,7 @@ DATABASE_URL="mysql://root@localhost:3306/turmas_db?schema=public&timezone=UTC"
 
 # Execute as migrações do banco
 npx prisma generate
-npx prisma db push
+npx prisma migrate dev --name init
 ```
 
 ### 3. Inicialização do Sistema
